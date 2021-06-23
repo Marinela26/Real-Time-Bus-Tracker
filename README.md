@@ -6,4 +6,4 @@
 
 
 
-<img src="marker.png" alt="PacMan" width="300" height="300">
+<img src="marker.png" alt="PacMan" width="#" height="#">
