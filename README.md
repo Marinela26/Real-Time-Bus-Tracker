@@ -37,7 +37,7 @@ $ cd Real-Time-Bus-Tracker
 
 ## Future Improvement
 
-- Using the API's from differnt cities around the world to fetch data to illustrate lines of public transportation.
+- Using the API's from differnt cities around the world to fetch data used illustrate lines of public transportation.
 - Change the marker's appearance into different shapes.
 
 
