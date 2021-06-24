@@ -42,3 +42,5 @@ To do:
  ## License
  
 This project is available under the [MIT License](). 
+
+Please check full license document <a href="https://github.com/Marinela26/Real-Time-Bus-Tracker/edit/main/README.md">here</a>
