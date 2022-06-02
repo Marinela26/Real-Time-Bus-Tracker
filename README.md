@@ -29,7 +29,7 @@ An animated marker is created and added on a map by clicking the main button dis
 
 * Clone this repository
 
-$ git clone git@github.com:marinela-togoe/Real-Time-Bus-Tracker.git
+$ git clone https://github.com/marinela-togoe/Real-Time-Bus-Tracker.git
 
 * Go into the repository
 
