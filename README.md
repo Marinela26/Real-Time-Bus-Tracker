@@ -1,6 +1,6 @@
 # Real-Time-Bus-Tracker
 
-<a href="https://marinela26.github.io/Real-Time-Bus-Tracker/](https://marinela-togoe.github.io/Real-Time-Bus-Tracker/">Demo here</a>
+<a href="https://marinela-togoe.github.io/Real-Time-Bus-Tracker/">Demo here</a>
 
 ## Table of Contents
 * [Screenshots](#screenshots)
