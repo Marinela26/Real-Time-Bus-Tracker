@@ -46,4 +46,4 @@ $ cd Real-Time-Bus-Tracker
  
 This project is available under the [MIT License](). 
 
-Please check full license document <a href="https://github.com/Marinela26/Real-Time-Bus-Tracker/blob/main/LICENSE">here</a>
+Please check full license document <a href="https://github.com/marinela-togoe/Real-Time-Bus-Tracker/blob/main/LICENSE">here</a>
